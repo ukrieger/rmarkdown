@@ -1,9 +1,20 @@
+
+
+
 ---
-title: "markdon presentation test"
-author: "Ulrich Krieger"
+title: "R markdown presentation test"
+author: "Carina Cornesse, Barbara Felderer and Ulrich Krieger"
+
 date: "20 Februar 2019"
-output: slidy_presentation
+output: 
+  ioslides_presentation:
+    font_adjustment: +1
+    footer: "Some Footer"
+    logo: SFB_884_logo_transparent.png
+    css: ioslides_custom.css
 ---
+
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
