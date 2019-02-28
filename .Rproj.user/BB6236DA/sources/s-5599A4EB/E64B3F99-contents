@@ -25,9 +25,12 @@ knitr::opts_chunk$set(echo = FALSE)
 - Experimental Setup
 - Data 
 - Results
-     - test1
-     - test2
-
+     - Recruitment interview response rate
+     - Recruitment interview sample accuracy
+     - Panel registration rates
+     - Panel registration sample accuracy
+- Summary
+- Outlook
 
 ## R Markdown
 

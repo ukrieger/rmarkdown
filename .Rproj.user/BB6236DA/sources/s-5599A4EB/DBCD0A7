@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1551365516317.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "DBCD0A7",
+    "lastKnownWriteTime" : 1551365398,
+    "last_content_update" : 1551365526422,
+    "path" : "~/R_proj/rmarkdown/ioslides_custom.css",
+    "project_path" : "ioslides_custom.css",
+    "properties" : {
+        "cursorPosition" : "3,17",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "css"
+}
