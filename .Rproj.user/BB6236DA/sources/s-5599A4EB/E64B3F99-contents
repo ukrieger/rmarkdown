@@ -32,15 +32,21 @@ knitr::opts_chunk$set(echo = FALSE)
 - Summary
 - Outlook
 
-## R Markdown
+## Background
+- The German Internet Panel study is a large-scale, nationwide, probability based online panel
+- recruitment usinf **face-to-face** interviews in 2012, refreshment sample in 2014
+- **face-to-face** 
+    - helped draw a probability based sample
+    - are expensive, come with interviewer effects, combined response rates relative low
+- Exploring different options for 2018 refreshment sample:
+- **push-to-web:** "... using mail contact to request responses over the internet while withholding alternative answering modes until later in the implementation process." (Dillman 2017)
 
-This is an R Markdown presentation. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document.
-
-## Slide with Bullets
-
-- Bullet 1
+## Push-to-web
+- Implemented in large cale survey programms (European Value Survey (EVS; Roberts, Joye and Staehli 2016?), the American Community Survey (ACS), and the UK Community Life Survey (United Kingdom Cabinet Office 2016), as well as in the official censuses in Japan (Statistics Japan 2015), Canada (Statistics Canada 2016), and Australia (Australian Bureau of Statistics 2016))
+- push-to-web study sequences by Dillman et al. 
+    - Mail contacts inviting sample members to participate online
+    - later mailings included paper questionnaires.
+    - 
 - Bullet 2
 - Bullet 3
 
